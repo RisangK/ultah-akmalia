@@ -1,0 +1,173 @@
+<html>
+  <head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
+	<title></title>
+	<style>
+		*{
+			margin: 0;
+			padding:0;}
+			body {
+				background-color: white;
+			font-family: 'Caveat', cursive;}
+
+.content{
+	display: flex;
+	width: 100%;
+	height: 30vw;
+    color: #fff;
+    flex-direction: column;
+
+}
+ .row{
+	padding: 30vw 0; 
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin : 10px 0;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	flex-direction: column;
+}
+.video{
+	padding: 30vw 0; 
+	width: 100%;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin : 10px 0;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+}
+.row img {
+	width: 50%;
+}
+h4{
+	font-size: 7vw;
+	margin: 4px auto;
+	text-align: center;
+	color: #161D6F;
+
+}
+h2{
+font-size: 3vw;
+	margin: 4px auto;
+	text-align: center;
+	color: #161D6F;
+}
+.audio{
+	display: block;
+}
+
+#k1{
+	background-color: #FCD1D1;
+}
+#k2{
+	background-color: #AEE1E1
+}
+#k3{
+	background-color: #D3E0DC;
+}
+#k4{
+	background-color: #F9DFDC;
+}
+
+
+
+iframe{
+	width: 560px;
+	height:315px;
+	padding: 20px;
+	border :3px solid black;
+}
+
+</style>
+	
+  </head>
+  <body>
+</div>
+
+  <div class="content">
+    <div class="row" id="k1">
+    	<div>
+		<h2>Di klik dulu biar ngga sepi heheh</h2> <br></div>
+		<div>
+    	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=E5O6nXH9LeY&ab_channel=Gellenmartadinata" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	</div>
+    	<div><br>
+		<h2>klo udah scroll yuu</h2> <br></div>
+	</div>
+    <div class="row" id="k2">
+	  <h4 > Hai Akmal  </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4 > it' the day!!! </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> Cie yang hari ini lagi ulang tahun </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> tepat hari ini usiamu bertambah yaa </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> Aku cuma bisa berdoa dan berharap hal hal baik untuk kamu </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> Sehat Selalu yaa </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> Selalu berproses jadi orang yang lebih Baik </h4>
+	</div>
+    <div class="row" id="k1">
+	  <h4> Baik dari sikap, Keuangan, Kesehatan dan apapun itu </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> Selalu jadi orang yang aku kenal </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> Pokonya harus lebih sabar </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> harus lebih baik lagi </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> Gak boleh cepet nyerah </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> Jangan lupa Makan Makan yaa wkwk </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> Awas aja klo gk ngasih  </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> Ngamukk ahh </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> Wkwk canda canda </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> once more, HAPPY BIRTHDAY </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> God bless.. and Have a Good Ahead </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> Semangat selalu dengan pilihan, Cita cita serta impiannya </h4>
+	</div>
+    <div class="row" id="k1">
+	  <h4> Yaudahlah pokonya wish you all the best and be succes </h4>
+	
+	</div>
+    <div class="row" id="k4">
+	  <h4> Udah segitu aja yang aku mau ucapin heheh  </h4>
+	</div>
+	<div>
+
+</div>
+</div>
+  </body>
+  
+</html>
